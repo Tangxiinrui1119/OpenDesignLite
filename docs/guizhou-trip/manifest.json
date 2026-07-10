@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "type": "artifact",
+  "kind": "slides",
+  "title": "贵州 14 天高端避暑度假 — 8.1–8.14",
+  "primaryFile": "slides.html",
+  "createdBy": "odl",
+  "createdAt": "1783684463",
+  "design": {
+    "kernelVersion": 1,
+    "stylesheet": "assets/od-design.css",
+    "visualBrief": "editorial"
+  }
+}
